@@ -1,2 +1,2 @@
 # MOgrammer
-Aplikasi web tutorial
+Aplikasi edukasi belajar pemograman berabasis web.
